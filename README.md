@@ -5,7 +5,7 @@
 
 <H1>About Me </H1>
 
-<h3>I'm a passionate Full Stack Developer with a B.Sc. in Computer Science and extensive experience in the MERN stack. I have developed several industry-standard projects and have a strong foundation in both front-end and back-end technologies. I am always eager to learn new skills and technologies, and I strive to create efficient and user-centric websites.</h3>
+<h3>I'm a experienced and passionate Full Stack Developer with a B.Sc. in Computer Science and extensive experience in the MERN stack. I have developed several industry-standard projects and have a strong foundation in both front-end and back-end technologies. I am always eager to learn new skills and technologies, and I strive to create efficient and user-centric websites.</h3>
 
 <h3 align="left">Connect with me: </h3>
 <p align="left"> vishakhcs51@gmail.com</p>
